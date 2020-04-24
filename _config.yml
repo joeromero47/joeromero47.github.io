@@ -1,11 +1,11 @@
 # Site settings
 author: Joseph Romero
-title: 
+title: Joe's Journey to Programming
 header-img: img/home-bg.png
 email: joeromero47@gmail.com
 copyright_name: Joseph Romero
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My road to learning how to program
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  joeromero47
